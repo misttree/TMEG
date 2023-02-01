@@ -4,5 +4,7 @@ An implemention of "Modeling Temporal-Modal Entity Graph for Procedural Multimod
 
 ## Dependencies
 - pytorch-lightning
+- pytorch
+- transformers
 - numpy
-- pandas
+- tqdm
